@@ -40,7 +40,6 @@ function navbarAnimation(){
           start: "top 0",
           end: "top -5%",
           scrub: true,
-          markers:true
         },
       });
     gsap.to("#nav-part2 #links", {
@@ -52,7 +51,6 @@ function navbarAnimation(){
           start: "top 0",
           end: "top -5%",
           scrub: true,
-          markers:true
         },
       });
 }
